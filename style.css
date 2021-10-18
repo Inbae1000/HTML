@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.photo{
+    background: white;
+    width: 915px;
+    height: 1000px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+.cat{
+    width: 280px;
+    height: 300px;
+    padding: 10px;
+}
